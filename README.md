@@ -24,8 +24,9 @@ continue below.
 ## Install Node.js
 
 For our JavaScript labs and lessons, we expect that students use Node.js on
-Ubuntu. If Node Version Manager (NVM) has been successfully installed, you can
-quickly install Node.js with a couple of commands.
+their macOS operating system. If Node Version Manager (NVM) has been
+successfully installed, you can quickly install Node.js with a couple of
+commands.
 
 ### Action Item
 
