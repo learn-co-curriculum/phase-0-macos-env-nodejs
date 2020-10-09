@@ -1,4 +1,4 @@
-# Installing Node.js
+# Installing Node.js on macOS
 
 ## Install Node Version Manager (NVM)
 
