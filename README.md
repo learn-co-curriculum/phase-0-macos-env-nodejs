@@ -6,7 +6,7 @@ Node Version Manager (NVM) is a tool that will allow you to download and install
 
 ### Action item
 
-1. Open the “Terminal” application using "Spotlight Search"
+1. Open the "Terminal" application using "Spotlight Search"
 2. Type `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.36.0/install.sh | zsh` and press `<Enter>`
 3. Close the "Terminal" application
 4. Reopen the "Terminal" application using "Spotlight Search"
@@ -15,7 +15,7 @@ Node Version Manager (NVM) is a tool that will allow you to download and install
 
 ### Check your work
 
-If you see a message ending with “Note: to remove, delete, or uninstall nvm”, continue below.
+If you see a message ending with "Note: to remove, delete, or uninstall nvm", continue below.
 
 ## Install Node.js
 
@@ -29,4 +29,4 @@ For our JavaScript labs and lessons, we expect that students use Node.js on Ubun
 
 ### Check your work
 
-If you see a message starting with “-> v14.13.0”, continue below.
+If you see a message starting with "-> v14.13.0", continue below.
