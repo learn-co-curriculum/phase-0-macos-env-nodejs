@@ -18,6 +18,8 @@ first step in installing Node.js on your macOS operating system.
 
 ### Check Your Work
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Unf__nC4nk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If you see a message ending with "Note: to remove, delete, or uninstall nvm",
 continue below.
 
@@ -35,6 +37,8 @@ commands.
 3. Type `nvm list` and press `<Enter>`
 
 ### Check Your Work
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tOqRJJaCAVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you see a message starting with "-> v14.13.0", continue to the next lesson,
 **Installing Databases on macOS**.
