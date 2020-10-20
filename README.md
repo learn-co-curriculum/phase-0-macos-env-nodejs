@@ -13,8 +13,7 @@ first step in installing Node.js on your macOS operating system.
 2. Type `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash` and press `<Enter>`
 3. Close the "Terminal" application
 4. Reopen the "Terminal" application using "Spotlight Search"
-5. Type `compaudit | xargs chmod go-w` and press `<Enter>`
-6. Type `nvm` and press `<Enter>`
+5. Type `nvm` and press `<Enter>`
 
 ### Check Your Work
 
