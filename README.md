@@ -36,12 +36,12 @@ of commands.
 ### Action Item
 
 1. Open the "Terminal" application using "Spotlight Search"
-2. Type `nvm install node` and press `<Enter>`
+2. Type `nvm install --lts` and press `<Enter>`
 3. Type `nvm list` and press `<Enter>`
 
 ### Check Your Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pnnw99Qo_Z0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NzWGzrBPRVI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you see a message starting with "-> v14.13.0" (or any higher number, like "->
 v14.13.10" or "-> v16.10.0"), continue to the next lesson, **Installing Ruby on
