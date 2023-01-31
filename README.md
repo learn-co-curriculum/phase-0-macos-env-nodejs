@@ -5,7 +5,7 @@
 [Node Version Manager (NVM)][nvm] is a tool that will allow you to download and
 install multiple versions of Node.js, one of the environments for the JavaScript
 programming language that we teach at Flatiron School. Installing NVM is the
-first step in installing Node.js on your macOS operating system.
+first step in installing Node.js on your MacOS operating system.
 
 [nvm]: https://github.com/nvm-sh/nvm
 
@@ -30,7 +30,7 @@ continue below.
 ## Install Node.js
 
 For our JavaScript labs and lessons, we expect that students use [Node.js][node]
-on their macOS operating system. If Node Version Manager (NVM) has been
+on their MacOS operating system. If Node Version Manager (NVM) has been
 successfully installed, you can quickly install Node.js with a couple of
 commands.
 
@@ -48,4 +48,4 @@ commands.
 
 If you see a message starting with "-> v14.13.0" (or any higher number, like "->
 v14.13.10" or "-> v16.10.0"), continue to the next lesson, **Installing Python on
-macOS**.
+MacOS**.
