@@ -22,7 +22,7 @@ first step in installing Node.js on your MacOS operating system.
 
 ### Check Your Work
 
-<iframe width="560" height="315" src="https://youtu.be/sRqgMr3AI_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sRqgMr3AI_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you see a message ending with "Note: to remove, delete, or uninstall nvm",
 continue below.
@@ -44,7 +44,7 @@ commands.
 
 ### Check Your Work
 
-<iframe width="560" height="315" src="https://youtu.be/CXTQW772kNY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CXTQW772kNY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you see a message starting with "-> v18.17.1" (or any higher number),
 continue to the next lesson, **Installing Python on MacOS**.
